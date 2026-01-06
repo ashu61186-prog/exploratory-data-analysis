@@ -15,4 +15,8 @@ Individual Project
 ## Data Cleaning
 Handled missing values, removed duplicates, and formatted columns for analysis.
 
+## Conclusion
+The analysis provides insights into content trends, ratings, and platform strategy.
+
+
 
