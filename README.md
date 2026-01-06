@@ -11,3 +11,8 @@ This project performs exploratory data analysis (EDA) on the Amazon Prime TV Sho
 
 ## Project Type
 Individual Project
+
+## Data Cleaning
+Handled missing values, removed duplicates, and formatted columns for analysis.
+
+
